@@ -1,4 +1,5 @@
-# dipprojectg2
+# dipprojectg2:
+
 Computational Photography and Image Enhancement
 README.md file:
 ________________________________________
