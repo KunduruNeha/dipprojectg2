@@ -170,11 +170,16 @@ Future Work
 ________________________________________
 Contact
 For inquiries or issues, please reach out to:
-•	Goutham Reddy Kasireddy at Email: gkasired@CougarNet.uh.edu4
-•	Neha Kunduru at Email: nkunduru@CougarNet.uh.edu4
-•	Sheethal Bhandari at Email: sbandar5@CougarNet.uh.edu4
-•	Gnana Shekhar at Email: gchandr2@CougarNet.uh.edu4
-•	Tejas Murali at Email: tmurali@CougarNet.uh.edu4
+
+•	Goutham Reddy Kasireddy at Email: gkasired@CougarNet.uh.edu
+
+•	Neha Kunduru at Email: nkunduru@CougarNet.uh.edu
+
+•	Sheethal Bhandari at Email: sbandar5@CougarNet.uh.edu
+
+•	Gnana Shekhar at Email: gchandr2@CougarNet.uh.edu
+
+•	Tejas Murali at Email: tmurali@CougarNet.uh.edu
 
 ________________________________________
 
