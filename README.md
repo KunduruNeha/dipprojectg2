@@ -169,7 +169,12 @@ Future Work
 3.	Deploy the UI to a cloud platform (e.g., AWS, Google Cloud, or Heroku).
 ________________________________________
 Contact
-For inquiries or issues, please reach out to Goutham Reddy Kasireddy at:
-•	Email: gkasired@CougarNet.uh.edu
+For inquiries or issues, please reach out to:
+•	Goutham Reddy Kasireddy at Email: gkasired@CougarNet.uh.edu4
+•	Neha Kunduru at Email: nkunduru@CougarNet.uh.edu4
+•	Sheethal Bhandari at Email: sbandar5@CougarNet.uh.edu4
+•	Gnana Shekhar at Email: gchandr2@CougarNet.uh.edu4
+•	Tejas Murali at Email: tmurali@CougarNet.uh.edu4
+
 ________________________________________
 
