@@ -9,54 +9,104 @@ This project focuses on enhancing HDR images using CNN and GAN-based approaches.
 ________________________________________
 Project Structure
 Digital Image Processing/
+
 ├── subset_photos/                        # Folder containing raw .dng files
+
 │   ├── img_0001.dng
+
 │   ├── img_0002.dng
+
 │   ├── ...
+
 ├── subset_photos_jpg/                    # Folder containing preprocessed .jpg files (after conversion)
+
 │   ├── img_0001.jpg
+
 │   ├── img_0002.jpg
+
 │   ├── ...
+
 ├── subset_photos_augmented/              # Folder with augmented images
+
 │   ├── img_augmented_0001.jpg
+
 │   ├── img_augmented_0002.jpg
+
 │   ├── ...
+
 ├── subset_photos_denoised/               # Folder with denoised images
+
 │   ├── img_denoised_0001.jpg
+
 │   ├── img_denoised_0002.jpg
+
 │   ├── ...
+
 ├── subset_photos_normalized/             # Folder with normalized images
+
 │   ├── img_normalized_0001.jpg
+
 │   ├── img_normalized_0002.jpg
+
 │   ├── ...
+
 ├── subset_photos_preprocessed_updated/   # Final folder with preprocessed images for training
+
 │   ├── img_final_0001.jpg
+
 │   ├── img_final_0002.jpg
+
 │   ├── ...
+
 ├── outputs/                              # Folder for storing model-generated images
+
 │   ├── enhanced_img_0001.jpg
+
 │   ├── enhanced_img_0002.jpg
+
 │   ├── ...
+
 ├── notebooks/                            # Jupyter notebooks for various tasks
+
 │   ├── Task1_Preprocessing.ipynb         # Preprocessing of raw images
+
 │   ├── Task2_Image_Enhancement.ipynb     # Image enhancement logic
+
 │   ├── Task3_CNN_and_GANs.ipynb          # Implementation of CNN and GANs
+
 │   ├── Task4_Evaluation_PSNR_SSIM.ipynb  # Evaluation using PSNR and SSIM metrics
+
+
 │   ├── Task5_Save_Model.ipynb            # Saving the models in pickle format
+
 ├── models/                               # Saved model checkpoints
+
 │   ├── generator.pth
+
 │   ├── discriminator.pth
+
 ├── intermediate_data/                    # Folder containing pickle files for preprocessed/intermediate data
+
 │   ├── preprocess_data.pkl
+
 │   ├── metrics_data.pkl
+
 │   ├── colab_session.pkl
+
 │   ├── colab_session_filtered.pkl
+
 ├── saved_models/                         # Additional model files
+
 │   ├── best_model.pth
+
 │   ├── image_enhancement_model.h5
+
 ├── README.md                             # Project documentation
+
 └── requirements.txt                      # Python dependencies
+
 ________________________________________
+
 Features
 1.	Image Preprocessing:
 o	Converts DNG files to JPEG for compatibility with OpenCV.
